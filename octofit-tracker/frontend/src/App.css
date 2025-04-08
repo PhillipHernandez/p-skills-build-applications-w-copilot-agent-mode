@@ -1,0 +1,62 @@
+/* General background and text styling */
+body {
+  background-color: #f8f9fa; /* Light gray background */
+  color: #343a40; /* Dark gray text */
+}
+
+/* Navigation menu styling */
+.navbar {
+  background-color: #007bff; /* Blue background */
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important; /* White text for links */
+}
+
+.nav-link:hover {
+  color: #ffc107 !important; /* Yellow on hover */
+}
+
+/* Headings styling */
+h1, h2, h3, h4, h5, h6 {
+  color: #007bff; /* Blue headings */
+}
+
+/* Table styling */
+.table {
+  background-color: #ffffff; /* White table background */
+  border: 1px solid #dee2e6; /* Light gray border */
+}
+
+.table thead {
+  background-color: #007bff; /* Blue header */
+  color: #ffffff; /* White text */
+}
+
+/* Button styling */
+.btn {
+  background-color: #007bff; /* Blue buttons */
+  color: #ffffff; /* White text */
+  border: none;
+}
+
+.btn:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Link styling */
+a {
+  color: #007bff; /* Blue links */
+}
+
+a:hover {
+  color: #0056b3; /* Darker blue on hover */
+  text-decoration: none;
+}
+
+/* Logo styling */
+.logo {
+  height: 50px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
